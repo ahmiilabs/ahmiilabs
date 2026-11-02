@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="AHMII Labs footer">
-<defs><linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9a24b" stop-opacity="0.35"/><stop offset="1" stop-color="#070605" stop-opacity="0"/></linearGradient></defs>
-<rect width="1200" height="180" fill="#070605"/>
-<path fill="url(#w)" d="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V180 H0Z"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V180 H0Z;M0 70 Q150 110 300 70 T600 70 T900 70 T1200 70 V180 H0Z;M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 V180 H0Z"/></path>
-<path fill="url(#w)" opacity="0.6" d="M0 90 Q150 60 300 90 T600 90 T900 90 T1200 90 V180 H0Z"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 90 Q150 120 300 90 T600 90 T900 90 T1200 90 V180 H0Z;M0 90 Q150 60 300 90 T600 90 T900 90 T1200 90 V180 H0Z;M0 90 Q150 120 300 90 T600 90 T900 90 T1200 90 V180 H0Z"/></path>
-<g font-family="'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
-<text x="600" y="118" font-size="26" font-weight="700" letter-spacing="10" fill="#f5d98b">AHMII LABS<animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/></text>
-<text x="600" y="146" font-size="13" letter-spacing="3" fill="#b89a5a">Crafted with ♥ and a lot of code  ·  © 2026 AHMII Labs · Ahmad Naveed, Pakistan</text></g></svg>
