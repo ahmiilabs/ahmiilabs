@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250" role="img" aria-label="Terminal: ahmii deploy --prod">
+<rect x="1" y="1" width="818" height="248" rx="14" fill="#0b0a08" stroke="#3a2f16" stroke-width="2"/>
+<rect x="1" y="1" width="818" height="38" rx="14" fill="#14110b"/><rect x="1" y="26" width="818" height="13" fill="#14110b"/>
+<circle cx="26" cy="20" r="6" fill="#ff5f56"/><circle cx="48" cy="20" r="6" fill="#ffbd2e"/><circle cx="70" cy="20" r="6" fill="#27c93f"/>
+<text x="410" y="25" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#8f7a45">ahmii-labs — zsh</text>
+<g font-family="Consolas,'Courier New',monospace" font-size="17">
+<text x="28" y="76" fill="#f5d98b" opacity="0">$ ahmii init --studio "AHMII Labs"<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.04;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="28" y="104" fill="#4ade80" opacity="0">✓ ideas loaded<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16;0.18;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="28" y="132" fill="#f5d98b" opacity="0">$ ahmii build --ai --web --software<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.32;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="28" y="160" fill="#4ade80" opacity="0">✓ NEX AI · NexHouse · Visa CRM · NEX POS<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46;0.48000000000000004;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="28" y="188" fill="#f5d98b" opacity="0">$ ahmii deploy --prod<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.62;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="28" y="216" fill="#4ade80" opacity="0">✓ Build complete · shipped to production<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76;0.78;0.93;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<rect x="28" y="232" width="10" height="20" fill="#f5d98b"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g></svg>

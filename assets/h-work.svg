@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Selected Work">
+<defs><linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#8a6a2b"/><stop offset="0.5" stop-color="#fff0b8"/><stop offset="1" stop-color="#8a6a2b"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="-1200 0" to="0 0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<g font-family="'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+<text x="600" y="28" font-size="13" letter-spacing="8" fill="#8f7a45">03 — PORTFOLIO</text>
+<text x="600" y="78" font-size="46" font-weight="800" letter-spacing="8" fill="url(#gold)">SELECTED WORK</text></g>
+<rect x="600" y="96" width="0" height="2" rx="1" fill="#f5d98b"><animate attributeName="x" values="600;520;600" dur="4s" repeatCount="indefinite"/><animate attributeName="width" values="0;160;0" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
